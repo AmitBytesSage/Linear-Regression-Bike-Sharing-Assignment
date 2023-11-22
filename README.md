@@ -1,5 +1,5 @@
 # Bike Sharing Assignment
-> This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. You will need to submit a Jupyter notebook for the same.
+> This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. 
 
 
 ## Table of Contents
